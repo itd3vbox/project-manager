@@ -12,7 +12,9 @@ on any tech projects.
 The app should be first available on:
 - Web
 - Android
+
 But later it should also be made available on:
+
 - iOS 
 - Windows / Linux / Mac with Electron
 
