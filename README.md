@@ -1,5 +1,7 @@
 # Projects Manager
 
+![Project Manager](./project-manager.gif)
+
 This is a simple project aimed at helping with:
 - Building
 - Maintaining
