@@ -21,8 +21,6 @@ But later it should also be made available on:
 Here is a list of linked projects:
 - [**project-manager-docker**](https://github.com/itd3vbox/project-manager-docker)
 - [**project-manager-symfony**](https://github.com/itd3vbox/project-manager-symfony)
-  
-And here is another list of linked projects:
 - [**project-manager-next**](https://github.com/itd3vbox/project-manager-next)
 - [**project-manager-android**](https://github.com/itd3vbox/project-manager-android)
 - [**project-manager-automates**](https://github.com/itd3vbox/project-manager-automates)
